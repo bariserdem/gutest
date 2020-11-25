@@ -1,2 +1,2 @@
-# gutest
-git unity test
+Test repo for Unity project
+
